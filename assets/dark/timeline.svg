@@ -33,6 +33,6 @@
     <circle class="pulse" cx="1060" cy="125" r="4.5" fill="var(--accent)"/>
     <line x1="1060" y1="129" x2="1060" y2="154" stroke="var(--rule)"/>
     <text fill="var(--accent)" class="mono" x="1060" y="178" font-size="16" letter-spacing="2" text-anchor="middle">2026</text>
-    <text fill="var(--bone)" class="mono" x="1060" y="200" font-size="13" letter-spacing="1" text-anchor="middle">the start</text>
+    <text fill="var(--bone)" class="mono" x="1060" y="200" font-size="13" letter-spacing="1" text-anchor="middle">Started At Google</text>
   </g>
 </svg>
