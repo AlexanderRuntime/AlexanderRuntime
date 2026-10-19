@@ -15,32 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VoidWatcher1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt=""  />
 </div>
 
-###
-
-<h2 align="left">About Me</h2>
-
-###
-
-<p align="left">I am a developer mostly focusing on Minecraft, with interests in modding, addons, reverse engineering, and software preservation. I enjoy working on low-level systems and maintaining educational archives for the community.<br><br>- 🔭 Currently working on Minecraft projects<br>- 🌱 Exploring reverse engineering, modding, and open-source development</p>
-
-###
-
-<h2 align="left">Connect</h2>
-
-###
-
-- [Voided Network Discord](https://discord.gg/VoidedNetwork)
-- [Voided Network Store](https://store.voidedservers.net/)
-- [Voided Network YouTube](https://www.youtube.com/@TheVoidedNetwork)
-- [Voided Studios YouTube](https://www.youtube.com/@VoidedStudios1)
-- [Voided Studios Spotify](https://open.spotify.com/artist/617THkYI1UjW6JObJLXjta)
-- [TryHackMe](https://tryhackme.com/p/VoidWatcher1)
-- [GitHub](https://github.com/VoidWatcher1)
-
-###
-
-<p align="left">Feel free to explore my repositories if you are interested in Minecraft development.</p>
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=VoidWatcher1.VoidWatcher1&"  />
 </div>
