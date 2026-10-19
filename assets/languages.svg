@@ -1,0 +1,24 @@
+<svg viewBox="0 0 456 270" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Languages by repository: 73% JavaScript, 16% Java, 4% C++, 4% C#, 2% Python, 1% Other">
+  <style>
+    :root { --ink:#000000; }
+    .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; fill:var(--ink); }
+    .panel,.rule,.bar { fill:none; stroke:var(--ink); stroke-width:1; }
+    .fill { fill:var(--ink); }
+    .grow { transform-box:fill-box; transform:scaleX(0); transform-origin:left center; animation:grow .8s cubic-bezier(.2,.7,.2,1) forwards; }
+    .g2{animation-delay:.1s}.g3{animation-delay:.2s}.g4{animation-delay:.3s}.g5{animation-delay:.4s}.g6{animation-delay:.5s}
+    @keyframes grow { to { transform:scaleX(1); } }
+    @media (prefers-reduced-motion:reduce) { .grow { animation:none; transform:scaleX(1); } }
+  </style>
+  <!-- Fixed language percentages supplied by the profile owner. -->
+  <rect class="panel" x="0.5" y="0.5" width="455" height="269" rx="2"/>
+  <g class="mono">
+    <text x="28" y="38" font-size="15" font-weight="700" letter-spacing="2">LANGUAGES BY REPOSITORY</text>
+    <line class="rule" x1="28" y1="52" x2="428" y2="52"/>
+    <text x="28" y="85" font-size="10">JAVASCRIPT</text><rect class="bar" x="140" y="74" width="270" height="12"/><rect class="fill grow g1" x="140" y="74" width="197.10000000000002" height="12"/>
+    <text x="28" y="115" font-size="10">JAVA</text><rect class="bar" x="140" y="104" width="270" height="12"/><rect class="fill grow g2" x="140" y="104" width="43.2" height="12"/>
+    <text x="28" y="145" font-size="10">C++</text><rect class="bar" x="140" y="134" width="270" height="12"/><rect class="fill grow g3" x="140" y="134" width="10.8" height="12"/>
+    <text x="28" y="175" font-size="10">C#</text><rect class="bar" x="140" y="164" width="270" height="12"/><rect class="fill grow g4" x="140" y="164" width="10.8" height="12"/>
+    <text x="28" y="205" font-size="10">PYTHON</text><rect class="bar" x="140" y="194" width="270" height="12"/><rect class="fill grow g5" x="140" y="194" width="5.4" height="12"/>
+    <text x="28" y="235" font-size="10">OTHER</text><rect class="bar" x="140" y="224" width="270" height="12"/><rect class="fill grow g6" x="140" y="224" width="2.7" height="12"/>
+  </g>
+</svg>
