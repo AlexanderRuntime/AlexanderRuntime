@@ -31,7 +31,7 @@
   <line x1="688" y1="64" x2="688" y2="296" stroke="var(--rule)" opacity=".4"/>
 
   <!-- User-provided language distribution; bar widths use a 250px = 100% scale. -->
-  <text fill="var(--dim)" class="mono" x="48" y="78" font-size="10" letter-spacing="2.5">LANGUAGE DISTRIBUTION</text>
+  <text fill="var(--dim)" class="mono" x="48" y="78" font-size="10" letter-spacing="2.5">LANGUAGE FOCUS</text>
   <g class="mono" font-size="11"><text fill="var(--bone)" x="48" y="108">JavaScript</text><rect class="bar g1" x="48" y="116" width="182.5" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="330" y="123" text-anchor="end" font-size="10">73%</text></g>
   <g class="mono" font-size="11"><text fill="var(--bone)" x="48" y="146">Java</text><rect class="bar g2" x="48" y="154" width="40" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="330" y="161" text-anchor="end" font-size="10">16%</text></g>
   <g class="mono" font-size="11"><text fill="var(--bone)" x="48" y="184">C++</text><rect class="bar g3" x="48" y="192" width="10" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="330" y="199" text-anchor="end" font-size="10">4%</text></g>
