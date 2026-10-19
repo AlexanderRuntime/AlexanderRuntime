@@ -25,7 +25,7 @@
     <circle cx="140" cy="125" r="4" fill="var(--bone)"/>
     <line x1="140" y1="121" x2="140" y2="96" stroke="var(--rule)"/>
     <text fill="var(--accent)" class="mono" x="140" y="72" font-size="16" letter-spacing="2" text-anchor="middle">2021</text>
-    <text fill="var(--bone)" class="mono" x="140" y="92" font-size="13" letter-spacing="1" text-anchor="middle">first commit</text>
+    <text fill="var(--bone)" class="mono" x="140" y="92" font-size="13" letter-spacing="1" text-anchor="middle">First Commit</text>
   </g>
   <g class="m m2">
     <circle class="ring" cx="1060" cy="125" r="4" stroke="var(--accent)" fill="none"/>
