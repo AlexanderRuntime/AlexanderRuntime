@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">> In the void, we watch.  <br>> Through the darkness, code emerges.</p>
-
-###
-
 <h3 align="left">GitHub Statistics</h3>
 
 ###
