@@ -35,11 +35,10 @@
   </g>
 
   <g class="fade a4">
-  <text fill="var(--dim)" class="mono" x="48" y="274" font-size="12.5" letter-spacing="1">focus  ▸</text>
   <text fill="var(--accent)" class="mono" x="128" y="274" font-size="12.5" letter-spacing="1">JavaScript · Java · C# · C++</text>
   </g>
   <g class="fade a5">
-    <text fill="var(--dim)" class="mono" x="48" y="300" font-size="12.5" letter-spacing="1">self thought · backend focused</text>
+    <text fill="var(--dim)" class="mono" x="48" y="300" font-size="12.5" letter-spacing="1">backend focused</text>
   </g>
 
   <line class="draw a5" x1="48" y1="342" x2="952" y2="342" stroke="var(--rule)" stroke-width="1"/>
